@@ -1,5 +1,12 @@
 ## Hi there 👋
+**stricale/stricale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+- 🔭 I’m currently working on nothing, just learning
+- 🌱 I’m currently learning Git and GitHub as well as Google Workspaces Administration
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I was on stage with the Blue Man Group once
 <!--
 **stricale/stricale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
